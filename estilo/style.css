@@ -84,6 +84,12 @@ section#img03{
     background-image: url('../imagens/imgpk4.jpeg');
     background-position: center center;
 }
+p#mensagem{
+    text-align: center;
+    font-family: var(--font3);
+    background-color: white;
+    padding: 15px;
+}
 
 footer{
     background-color: black;
